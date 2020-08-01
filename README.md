@@ -1,4 +1,4 @@
-<p allign="center">
+<p align="center">
 
 <a href="https://www.sih.gov.in/" target="_blank"><img src="https://www.sih.gov.in/img1/SMART-INDIA-HACKATHON-2020.png" height="100" alt="sih logo"/></a>
 <br>
