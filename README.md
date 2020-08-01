@@ -1,6 +1,6 @@
 <p align="center">
 
-<a href="https://www.sih.gov.in/" target="_blank"><img align="right" src="https://www.sih.gov.in/img1/SMART-INDIA-HACKATHON-2020.png" height="100" alt="sih logo"/></a>
+<a href="https://www.sih.gov.in/" target="_blank"><img align="center" src="https://www.sih.gov.in/img1/SMART-INDIA-HACKATHON-2020.png" height="100" alt="sih logo"/></a>
 <br>
 Developed using
 <a href="https://developer.android.com/studio/intro">
